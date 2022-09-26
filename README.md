@@ -1,2 +1,2 @@
-# AICore-Projects
+This is a hangman project done in python..
  
