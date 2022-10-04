@@ -31,6 +31,11 @@
     check_letter(letter)
         Checks if the letter is in the word.
     ask_letter()
-        Asks the user for a letter.ns a random fruit from word_list - a list of fruits
+        Asks the user for a letter.ns a random fruit from word_list - a list of fruits 
+    play_game(word_list):
+        prints a little introduction to the game and  continously asks the user for  an input/guess. Tells the player whether they win or lose.
+    play_again():
+        Plays the game again if the user agrees to. 
+
  
  ```
